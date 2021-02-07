@@ -1,0 +1,887 @@
+fileFormatVersion: 2
+guid: c897fb91886385e488fe265bd12c63b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3808124083976146520
+    second: RockTile_0
+  - first:
+      213: 5140923600706119549
+    second: RockTile_1
+  - first:
+      213: 4162942673910620535
+    second: RockTile_2
+  - first:
+      213: -6036672801633055849
+    second: RockTile_3
+  - first:
+      213: 2492533202156651361
+    second: RockTile_4
+  - first:
+      213: -2685752213710950582
+    second: RockTile_5
+  - first:
+      213: 8672625933996982093
+    second: RockTile_6
+  - first:
+      213: 2064070809608705511
+    second: RockTile_7
+  - first:
+      213: -685173989060152204
+    second: RockTile_8
+  - first:
+      213: 4334433166779818050
+    second: RockTile_9
+  - first:
+      213: 8892841331652738056
+    second: RockTile_10
+  - first:
+      213: -4914429169458719912
+    second: RockTile_11
+  - first:
+      213: 806676210136134203
+    second: RockTile_12
+  - first:
+      213: -2975319937724608308
+    second: RockTile_13
+  - first:
+      213: -2170887600346704421
+    second: RockTile_14
+  - first:
+      213: 3608260772047112864
+    second: RockTile_15
+  - first:
+      213: -791786907771837080
+    second: RockTile_16
+  - first:
+      213: 4535666429079219271
+    second: RockTile_17
+  - first:
+      213: -8417243523341417047
+    second: RockTile_18
+  - first:
+      213: 6787406023779083282
+    second: RockTile_19
+  - first:
+      213: -6872166549757319344
+    second: RockTile_20
+  - first:
+      213: 8443840143818732407
+    second: RockTile_21
+  - first:
+      213: -4658508745481667914
+    second: RockTile_22
+  - first:
+      213: 2732062441763829525
+    second: RockTile_23
+  - first:
+      213: -3686986191993467745
+    second: RockTile_24
+  - first:
+      213: -7329808828469086061
+    second: RockTile_25
+  - first:
+      213: -6694779987339537048
+    second: RockTile_26
+  - first:
+      213: 6301715426166903569
+    second: RockTile_27
+  - first:
+      213: -5563074662596369640
+    second: RockTile_28
+  - first:
+      213: 3288657869060216392
+    second: RockTile_29
+  - first:
+      213: 5068296956513234428
+    second: RockTile_30
+  - first:
+      213: 5765105742265431562
+    second: RockTile_31
+  - first:
+      213: 8430284047953877444
+    second: RockTile_32
+  - first:
+      213: -1543096063486008371
+    second: RockTile_33
+  - first:
+      213: -1904483666583312513
+    second: RockTile_34
+  - first:
+      213: 6144951751944151509
+    second: RockTile_35
+  - first:
+      213: -3703410362011511284
+    second: RockTile_36
+  - first:
+      213: -129689997550298625
+    second: RockTile_37
+  - first:
+      213: 6808089548708907329
+    second: RockTile_38
+  - first:
+      213: -7409221640895958288
+    second: RockTile_39
+  - first:
+      213: -6582495979148589730
+    second: RockTile_40
+  - first:
+      213: -5939843125212262077
+    second: RockTile_41
+  - first:
+      213: 4793695276452321853
+    second: RockTile_42
+  - first:
+      213: -1013003727560633630
+    second: RockTile_43
+  - first:
+      213: -5463549055339233501
+    second: RockTile_44
+  - first:
+      213: 8964889344528155153
+    second: RockTile_45
+  - first:
+      213: 1290670314659029287
+    second: RockTile_46
+  - first:
+      213: 9156924116146055773
+    second: RockTile_47
+  - first:
+      213: -467041024201259887
+    second: RockTile_48
+  - first:
+      213: 7911353132768735021
+    second: RockTile_49
+  - first:
+      213: 1413880941244169085
+    second: RockTile_50
+  - first:
+      213: 1533030501473917223
+    second: RockTile_51
+  - first:
+      213: 1132615148229205738
+    second: RockTile_52
+  - first:
+      213: -240439763257052613
+    second: RockTile_53
+  - first:
+      213: 772587083030903710
+    second: RockTile_54
+  - first:
+      213: 4630284970976377690
+    second: RockTile_55
+  - first:
+      213: 8086630085824849105
+    second: RockTile_56
+  - first:
+      213: -9110203322719274736
+    second: RockTile_57
+  - first:
+      213: 7445720645114180159
+    second: RockTile_58
+  - first:
+      213: 3358221517927262478
+    second: RockTile_59
+  - first:
+      213: -3475263357155575794
+    second: RockTile_60
+  - first:
+      213: 8429465870999332552
+    second: RockTile_61
+  - first:
+      213: 549051106670163950
+    second: RockTile_62
+  - first:
+      213: -5382694733550685492
+    second: RockTile_63
+  - first:
+      213: -7627168580713840815
+    second: RockTile_64
+  - first:
+      213: 8595978688969675949
+    second: RockTile_65
+  - first:
+      213: 7682201784257176002
+    second: RockTile_66
+  - first:
+      213: 8255539374555821760
+    second: RockTile_67
+  - first:
+      213: -3465616412730067331
+    second: RockTile_68
+  - first:
+      213: 7197487499333169005
+    second: RockTile_69
+  - first:
+      213: -7492314192772009762
+    second: RockTile_70
+  - first:
+      213: 7830318756990546437
+    second: RockTile_71
+  - first:
+      213: -8416384501774963323
+    second: RockTile_72
+  - first:
+      213: -2101452048435753855
+    second: RockTile_73
+  - first:
+      213: -7136764305054787243
+    second: RockTile_74
+  - first:
+      213: 5566147095477837151
+    second: RockTile_75
+  - first:
+      213: 1387291392731011312
+    second: RockTile_76
+  - first:
+      213: 6253586974121758411
+    second: RockTile_77
+  - first:
+      213: 9072319984629997743
+    second: RockTile_78
+  - first:
+      213: 7685826526721621504
+    second: RockTile_79
+  - first:
+      213: 5679973718803747238
+    second: RockTile_80
+  - first:
+      213: 7568554617497536332
+    second: RockTile_81
+  - first:
+      213: -5686122018238310000
+    second: RockTile_82
+  - first:
+      213: -7062561086506491632
+    second: RockTile_83
+  - first:
+      213: -7003598945722996003
+    second: RockTile_84
+  - first:
+      213: 7993088511795684265
+    second: RockTile_85
+  - first:
+      213: 901058144867357678
+    second: RockTile_86
+  - first:
+      213: 5517007635039396712
+    second: RockTile_87
+  - first:
+      213: 6089274321805471503
+    second: RockTile_88
+  - first:
+      213: 5017499598910635239
+    second: RockTile_89
+  - first:
+      213: 6905731946395072422
+    second: RockTile_90
+  - first:
+      213: -1812162627831329487
+    second: RockTile_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RockTile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1fdf96253d62bc0800000000000000
+      internalID: -3808124083976146520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77a28de6ca385740800000000000000
+      internalID: 5140923600706119549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771e1c24e4eb5c930800000000000000
+      internalID: 4162942673910620535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b4661121e693ca0800000000000000
+      internalID: -6036672801633055849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630a69cdb1479220800000000000000
+      internalID: 2492533202156651361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f2a03679a4abad0800000000000000
+      internalID: -2685752213710950582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ffab1665b5b5870800000000000000
+      internalID: 8672625933996982093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5daf5277d05ac10800000000000000
+      internalID: 2064070809608705511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4747bbc13e5cd76f0800000000000000
+      internalID: -685173989060152204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24025981000072c30800000000000000
+      internalID: 4334433166779818050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cb2192318b96b70800000000000000
+      internalID: 8892841331652738056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853589845b07ccbb0800000000000000
+      internalID: -4914429169458719912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b323ce93db3e13b00800000000000000
+      internalID: 806676210136134203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc099c2d74a85b6d0800000000000000
+      internalID: -2975319937724608308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d806ba357fd1e0800000000000000
+      internalID: -2170887600346704421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa48d60e0e131230800000000000000
+      internalID: 3608260772047112864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656470a0020305f0800000000000000
+      internalID: -791786907771837080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c6ee4169ce1fe30800000000000000
+      internalID: 4535666429079219271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5074bac91ff2b80800000000000000
+      internalID: -8417243523341417047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214e2b141d5b13e50800000000000000
+      internalID: 6787406023779083282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a46ceee821a0a0800000000000000
+      internalID: -6872166549757319344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773bf789fdb8e2570800000000000000
+      internalID: 8443840143818732407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockTile_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bab3825af6a95fb0800000000000000
+      internalID: -4658508745481667914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
