@@ -10,13 +10,11 @@ Les éléments visuels proviennent d’assets open source trouvés sur internet.
 
 ![map_dessus](https://user-images.githubusercontent.com/62560237/107148911-18da5d80-6956-11eb-8715-dc0f25c87b8b.PNG)
 
+![deb_jeu](https://user-images.githubusercontent.com/62560237/107148919-1ed03e80-6956-11eb-97a4-b1f893ff041f.PNG)
+
 ![_text_wood](https://user-images.githubusercontent.com/62560237/107148915-1d067b00-6956-11eb-86e4-bfa9bf870030.PNG)
 
 ![chop_wood](https://user-images.githubusercontent.com/62560237/107148917-1e37a800-6956-11eb-8267-e7852639310b.PNG)
-
-![heart+1](https://user-images.githubusercontent.com/62560237/107148918-1e37a800-6956-11eb-8d27-d5e0ec8580a7.PNG)
-
-![deb_jeu](https://user-images.githubusercontent.com/62560237/107148919-1ed03e80-6956-11eb-97a4-b1f893ff041f.PNG)
 
 ![heart](https://user-images.githubusercontent.com/62560237/107148921-1f68d500-6956-11eb-9762-52f8b7d5c9f8.PNG)
 
